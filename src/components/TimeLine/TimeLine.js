@@ -36,7 +36,7 @@ const Timeline = () => {
         working in my mechanical workshop. So, I decided to learn technology. Initially, I tried to learn from
         Youtube videos as well as from other free resources, but I felt like I needed guidance from a professional
         if I want to pursue a career in the IT industry. This is why I decided to join Masai School to learn
-        coding. <br/>
+        coding. <br/> <br/>
         I'm passionate about problem solving. I'm highly skilled in HTML, CSS, Mongodb and Express.<br/>
 
         I would like to work in an organisation that offers opportunities where i can showcase my technical
