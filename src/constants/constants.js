@@ -5,7 +5,7 @@ export const projects = [
       "Smallcase is the website where users can buy stocks and invest in it.",
     image: "/images/1.png",
     tags: ["HTML", "CSS", "Javascript"],
-    source: "",
+    source: "https://github.com/anandKmrSharma/smallcase",
     visit: "https://smallcase-clone.herokuapp.com/",
     id: 0,
   },
