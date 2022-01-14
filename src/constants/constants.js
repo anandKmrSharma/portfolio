@@ -6,7 +6,7 @@ export const projects = [
     image: "/images/1.png",
     tags: ["HTML", "CSS", "Javascript"],
     source: "",
-    visit: "#",
+    visit: "https://smallcase-clone.herokuapp.com/",
     id: 0,
   },
   {
