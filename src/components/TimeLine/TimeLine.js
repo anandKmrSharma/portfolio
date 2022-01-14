@@ -27,7 +27,7 @@ const Timeline = () => {
       <br />
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      I am Electronics And Telecommunication graduate Engineer with a passion of
+      I am Mechanical graduate Engineer with a passion of
         developing scalable web application and working across the full stack. I
         have designed the clone of some of the websites using Node.js,
         Javascript, HTML, CSS and Mongodb. Curious to learn and apply my skills

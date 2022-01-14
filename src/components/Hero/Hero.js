@@ -13,11 +13,11 @@ const Hero = (props) => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        <h1 style={{ color: 'magenta' }}>{`Hi, I am Vishnu Dutta`}</h1>
+        <h1 style={{ color: 'magenta' }}>{`Hi, I am Anand Kumar Sharma`}</h1>
       </SectionText>
       <WritingEffect />
 
-      <Button onClick={() => window.open("https://drive.google.com/file/d/17zat4pJ2MMGfZY2v-etjwOWOFuWeahK7/view?usp=view", '_blank')}>View My Resume</Button>
+      <Button onClick={() => window.open("https://drive.google.com/file/d/184oPv2UEaz5GzgEVE0TSW_w0eyR8d3-s/view?usp=sharing", '_blank')}>View My Resume</Button>
     </LeftSection>
 
   </Section>

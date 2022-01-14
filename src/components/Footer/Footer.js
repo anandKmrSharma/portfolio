@@ -24,12 +24,12 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>📱 Call</LinkTitle>
-          <LinkItem href="tel:+91-7985364425">+91-7985364425</LinkItem>
+          <LinkItem href="tel:+91-8240404896">+91-8240404896</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>✉️ Email</LinkTitle>
-          <LinkItem href="mailto:dutta1vishnu@gmail.com">
-          dutta1vishnu@gmail.com
+          <LinkItem href="anand31397@gmail.com">
+          anand31397@gmail.com
           </LinkItem>
         </LinkColumn>
       </LinkList>
@@ -39,21 +39,21 @@ const Footer = () => {
           <Slogan>Innovating one project at a time</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://github.com/vishnudutta1" target="_blank">
+          <SocialIcons href="https://github.com/anandKmrSharma" target="_blank">
             <AiFillGithub size="3rem" />
           </SocialIcons>
           <SocialIcons
-            href="https://www.linkedin.com/in/vishnu-dutta-90baba20b/"
+            href="https://www.linkedin.com/in/aks31397/"
             target="_blank"
           >
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons
+          {/* <SocialIcons
             href="https://twitter.com/vishudutta91"
             target="_blank"
           >
             <AiFillTwitterCircle size="3rem" />
-          </SocialIcons>
+          </SocialIcons> */}
         </SocialContainer>
       </SocialIconsContainer>
     </FooterWrapper>

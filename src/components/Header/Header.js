@@ -39,15 +39,15 @@ const Header = () => (
       </li>
     </Div2>
     <Div3>
-      <SocialIcons href="https://github.com/vishnudutta1" target="_blank">
+      <SocialIcons href="https://github.com/anandKmrSharma" target="_blank">
         <AiFillGithub size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://www.linkedin.com/in/vishnu-dutta-90baba20b/" target="_blank">
+      <SocialIcons href="https://www.linkedin.com/in/aks31397/" target="_blank">
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://twitter.com/vishudutta91" target="_blank">
+      {/* <SocialIcons href="https://twitter.com/vishudutta91" target="_blank">
         <AiFillTwitterCircle size="3rem" />
-      </SocialIcons>
+      </SocialIcons> */}
 
     </Div3>
   </Container>

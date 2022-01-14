@@ -1,8 +1,8 @@
 export const projects = [
   {
-    title: "Mednear.com Clone",
+    title: "Smallcase Clone",
     description:
-      "MedNear is the Primary Online Pharmacy in India provides prescription, medicines all over the India.",
+      "Smallcase is the website where users can buy stocks and invest.",
     image: "/images/1.png",
     tags: ["HTML", "CSS", "Javascript"],
     source: "https://github.com/vishnudutta1/Mednear",
@@ -10,7 +10,7 @@ export const projects = [
     id: 0,
   },
   {
-    title: "Nykaa.com Clone",
+    title: "Upgrade Clone",
     description:
       "Nykaa is an Indian e-commerce website. In this project we have cloned some important features of the website with backend integration. We used NodeJS runtime, Express framework and MongoDB as database",
     image: "/images/2.png",
