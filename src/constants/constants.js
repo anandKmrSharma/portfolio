@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "Smallcase Clone",
     description:
-      "Smallcase is the website where users can buy stocks and invest in it.",
+      "Smallcase is the website where users can buy stocks and invest in it.Replication of Smallcase website along with authentication feature, where users can filter, see the details and invest in stocks.",
     image: "/images/1.png",
     tags: ["HTML", "CSS", "Javascript"],
     source: "https://github.com/anandKmrSharma/smallcase",
