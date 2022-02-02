@@ -12,7 +12,7 @@ export const projects = [
   {
     title: "Upgrade Clone",
     description:
-      "Upgrade is the website where users can buy different educational courses. In this project we have cloned some important features of the website with backend integration. We used NodeJS runtime, Express framework and MongoDB as database",
+      "Upgrade is the website where users can buy different educational courses. In this project we have cloned some important features of the website with backend integration.",
     image: "/images/2.png",
     tags: ["NodeJS", "ExpressJS", "MongoDB"],
     source: "https://github.com/gurdeep7/upgrad",
