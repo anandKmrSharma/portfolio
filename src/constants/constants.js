@@ -14,9 +14,9 @@ export const projects = [
     description:
       "Upgrade is the website where users can buy different educational courses. In this project we have cloned some important features of the website with backend integration.",
     image: "/images/2.png",
-    tags: ["NodeJS", "ExpressJS", "MongoDB"],
-    source: "https://github.com/gurdeep7/upgrad",
-    visit: "https://gurdeep7.github.io/upgrad/html/index.html",
+    tags: ["NodeJS", "ExpressJS", "Firebase"],
+    source: "https://github.com/mehtab39/linkedin-clone-project",
+    visit: "https://linkedin-production-app.web.app/",
     id: 1,
   },
 ];
