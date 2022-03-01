@@ -15,7 +15,7 @@ export const projects = [
       "Linkedin platform is used for professional networking and career development.In this project we have cloned some important features of the website with backend integration.",
       // LinkedIn is an American business and employment-oriented online service that operates via websites and mobile apps. Launched on May 5, 2003, the 
       image: "/images/2.png",
-    tags: ["NodeJS", "ExpressJS", "Firebase"],
+    tags: ["Styled Components", "ReactJS", "Firebase"],
     source: "https://github.com/mehtab39/linkedin-clone-project",
     visit: "https://linkedin-production-app.web.app/",
     id: 1,
