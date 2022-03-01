@@ -12,7 +12,7 @@ export const projects = [
   {
     title: "Linkedin Clone",
     description:
-      "Linkedin platform is primarily used for professional networking and career development, and allows job seekers to post their CVs and employers to post jobs.In this project we have cloned some important features of the website with backend integration.",
+      "Linkedin platform is used for professional networking and career development.In this project we have cloned some important features of the website with backend integration.",
       // LinkedIn is an American business and employment-oriented online service that operates via websites and mobile apps. Launched on May 5, 2003, the 
       image: "/images/2.png",
     tags: ["NodeJS", "ExpressJS", "Firebase"],
